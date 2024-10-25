@@ -1,0 +1,634 @@
+{
+    "andar-um": {
+        "consultorios": [
+            {
+                "id": 1,
+                "horarios": {
+                    "segunda-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "terça-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "quarta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "quinta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "sexta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "horarios": {
+                    "segunda-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Roberto"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "terça-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Roberto"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "quarta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Roberto"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "quinta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Roberto"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ],
+                    "sexta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Roberto"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. João"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Maria"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "horarios": {
+                    "segunda-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Elizabeth"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Alexandre"
+                        }
+                    ],
+                    "terça-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Elizabeth"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Alexandre"
+                        }
+                    ],
+                    "quarta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Elizabeth"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Alexandre"
+                        }
+                    ],
+                    "quinta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Elizabeth"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Alexandre"
+                        }
+                    ],
+                    "sexta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Adriana"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Elizabeth"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Alexandre"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "horarios": {
+                    "segunda-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Vinicius"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Arluce"
+                        }
+                    ],
+                    "terça-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Vinicius"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Arluce"
+                        }
+                    ],
+                    "quarta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Vinicius"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Arluce"
+                        }
+                    ],
+                    "quinta-feira": [
+                        {
+                            "hora": "07h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "08h",
+                            "ocupado": true,
+                            "nomeMedico": "Dr. Vinicius"
+                        },
+                        {
+                            "hora": "09h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "10h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Manuella"
+                        },
+                        {
+                            "hora": "11h",
+                            "ocupado": false,
+                            "nomeMedico": null
+                        },
+                        {
+                            "hora": "12h",
+                            "ocupado": true,
+                            "nomeMedico": "Dra. Arluce"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
