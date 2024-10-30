@@ -6,6 +6,7 @@
                 "horarios": {
                     "segunda-feira": [
                         {
+                            // funcionamento das 7h as 13h - 6h
                             "hora": "07h",
                             "ocupado": true,
                             "nomeMedico": "Dr. João"
